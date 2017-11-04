@@ -1,5 +1,5 @@
 body {
-    background-color: #000;
+    background-color: #0c0800;
     font-family: monospace;
     color: #ccc;
     max-width: 500px;
@@ -11,7 +11,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 a {
     text-decoration: none;
-    color: #ff0;
+    color: #9d00e4;
 }
 a:hover {
     color: #aaa;
