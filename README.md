@@ -1,2 +1,2 @@
-# sablesable.cf
-my beutiful website
+# yello
+https://yello.ooo
